@@ -1,0 +1,3 @@
+[submodule "vim-arduino-ino"]
+	path = vim-arduino-ino
+	url = git@github.com:jplaut/vim-arduino-ino.git
