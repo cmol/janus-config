@@ -4,3 +4,6 @@
 [submodule "ansible-yaml"]
 	path = ansible-yaml
 	url = git://github.com/chase/vim-ansible-yaml.git
+[submodule "vim-latex"]
+	path = vim-latex
+	url = git@github.com:micheljansen/vim-latex.git
